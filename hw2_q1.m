@@ -21,7 +21,7 @@ for K = varK
 end
 
 disp(['Best K: ', num2str(bestK)]);
-% Based on tuning this is (1215.1) the best treu value of K but from the
+% Based on tuning this is (1215.1) the best true value of K but from the
 % graph it is 1180 but I used the best K values for the dominant poles
 % which is 1215.1
 
